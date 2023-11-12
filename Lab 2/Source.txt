@@ -1,0 +1,11 @@
+int main ()
+{
+	double a = 90, c;
+	string s;
+	float b;
+
+	b >= 6+5-1;
+	c < b*66;
+
+
+}
